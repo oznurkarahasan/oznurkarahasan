@@ -1,14 +1,13 @@
-## Hi 👋 I'm Öznur Karahasan
+## Hi, I'm Öznur Karahasan. Full Stack Developer & IOT Engineer
 
-+ You can contact me at [oznurkarahasann@gmail.com](mailto:oznurkarahasann@gmail.com)
++ You can contact me at **[Email](mailto:oznurkarahasann@gmail.com)**
+<div align="center">
+<a href="https://linkedin.com/in/oznurkarahasan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
 
-# 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=cplusplus,csharp,java,py,django,linux,vscode,docker,git,postgres,tensorflow,pytorch" alt="My Skills" width="500" height="50">
-
-## 🔗 Let's Connect!
+### Tech Stack:
 <p align="left">
-<a href="https://linkedin.com/in/oznurkarahasan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" /></a>
-<a href="https://medium.com/@oznurkarahasann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" height="32" /></a>
-<a href="https://leetcode.com/u/oz11/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" /></a>
+  <img src="https://skillicons.dev/icons?i=rust,cpp,cs,java,php,py,django,linux,vscode,docker,git,postgres,tensorflow,pytorch,arduino,react,nextjs,tailwind,ts,flutter,dart,raspberrypi,matlab" alt="My Skills" />
 </p>
-
