@@ -9,5 +9,5 @@
 
 ### Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,cpp,cs,java,php,py,django,linux,vscode,docker,git,postgres,tensorflow,pytorch,arduino,react,nextjs,tailwind,ts,flutter,dart,raspberrypi,matlab" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=rust,cpp,cs,java,php,py,django,linux,vscode,docker,git,postgres,tensorflow,pytorch,arduino,react,nextjs,tailwind,ts,flutter,dart,raspberrypi,arch,ubuntu,opencv" alt="My Skills" />
 </p>
